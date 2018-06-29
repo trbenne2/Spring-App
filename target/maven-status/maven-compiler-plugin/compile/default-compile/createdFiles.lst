@@ -1,0 +1,11 @@
+com\example\j2eeapp\commons\domain\BaseEntity.class
+com\example\j2eeapp\dao\UserDao.class
+com\example\j2eeapp\commons\dao\GenericDao.class
+com\example\j2eeapp\services\impl\UserAuthenticationProviderServiceImpl.class
+com\example\j2eeapp\services\UserAuthenicationProviderService.class
+com\example\j2eeapp\services\UserService.class
+com\example\j2eeapp\commons\dao\GenericJpaDao.class
+com\example\j2eeapp\services\impl\UserServiceImpl.class
+com\example\j2eeapp\domain\UserEntity.class
+com\example\j2eeapp\dao\UserJpaDao.class
+com\example\j2eeapp\ui\utils\UIUtils.class

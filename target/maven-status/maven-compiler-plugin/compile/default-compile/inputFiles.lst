@@ -1,0 +1,11 @@
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\services\UserAuthenicationProviderService.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\dao\UserDao.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\commons\domain\BaseEntity.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\domain\UserEntity.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\services\impl\UserAuthenticationProviderServiceImpl.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\services\UserService.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\commons\dao\GenericDao.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\dao\UserJpaDao.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\services\impl\UserServiceImpl.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\commons\dao\GenericJpaDao.java
+C:\Users\Tyler Bennett\eclipse-workspace\j2eeapplication\src\main\java\com\example\j2eeapp\ui\utils\UIUtils.java
